@@ -1,2 +1,5 @@
-# Easy-Consulting
-The "Easy Consulting Master" GitHub repository is a React.js-based project that offers a simple and elegant web interface for a consulting company. The website has several sections, including a homepage, about page, services page, blog page, and contact page. 
+The "Easy Consulting Master" GitHub repository is a React.js-based project that offers a simple and elegant web interface for a consulting company. The website has several sections, including a homepage, about page, services page, blog page, and contact page. The project uses modern React features like functional components, hooks, and React Router for navigation. It also features responsive design, making it easy to use on various devices.
+
+The homepage features a hero section with a background image and a call to action button that leads to the services page. The services page lists the various services offered by the consulting company, with each service card featuring an image, title, and description. The blog page lists recent blog posts, with each post card featuring an image, title, and summary.
+
+The contact page features a contact form that allows users to submit their queries or feedback. The form has fields for name, email, and message, and it uses the Formspree API for handling form submissions. The project also uses various other third-party libraries, including React-icons, React-toastify, and React-reveal, to enhance the user experience.
